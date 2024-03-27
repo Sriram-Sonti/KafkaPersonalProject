@@ -1,0 +1,7 @@
+kafka:
+  input_topics:
+    - input_topic_1
+    - input_topic_2
+    - input_topic_3
+  output_topic: output_topic
+ip_mapping_file: ip_mapping.yaml
